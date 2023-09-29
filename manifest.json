@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "Discord Element Blocker",
+  "version": "1.0",
+  "permissions": [
+    "activeTab",
+    "declarativeContent"
+  ],
+  "host_permissions": [
+    "https://discord.com/channels/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://discord.com/channels/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "description": "Blocks a specific element on Discord channels.",
+  "action": {
+    "default_popup": "",
+    "default_icon": {
+      "16": "icon-16.jpg",
+      "64": "icon-64.jpg",
+      "128": "icon-128.jpg"
+    }
+  }
+}
