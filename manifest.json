@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Discord Element Blocker",
+  "name": "Discord Search Blocker",
   "version": "1.0",
   "permissions": [
     "activeTab",
@@ -18,13 +18,13 @@
       "js": ["content.js"]
     }
   ],
-  "description": "Blocks a specific element on Discord channels.",
+  "description": "Blocks search bar on Discord channels.     dsf",
   "action": {
     "default_popup": "",
     "default_icon": {
-      "16": "icon-16.jpg",
-      "64": "icon-64.jpg",
-      "128": "icon-128.jpg"
+      "16": "icon-16.png",
+      "64": "icon-64.png",
+      "128": "icon-128.png"
     }
   }
 }
