@@ -5,17 +5,24 @@ function hideElement(element) {
   element.style.display = "none";
 }
 
-// Function to block the Discord element
-function blockDiscordElement() {
-  // Locate and block the specified element on Discord channels
-  const discordElement = document.querySelector(".searchBar-jGtisZ");
-  if (discordElement) {
-    hideElement(discordElement); // Hide the specified element
+// Function to hide the Discord search bar
+function hideDiscordSearchBar() {
+  const searchBarSelector = ".searchBar-jGtisZ";
+  const searchBarElement = document.querySelector(searchBarSelector);
+
+  if (searchBarElement) {
+    hideElement(searchBarElement); // Hide the search bar element
   }
 }
 
-// Check if the current page is a Discord channel page
-if (window.location.href.includes("discord.com") && window.location.href.includes("/channels")) {
-  // Initial call to block the specified element
-  blockDiscordElement();
-}
+// Call the function to hide the search bar whenever DOM changes occur
+const observer = new MutationObserver((mutationsList, observer) => {
+  for (const mutation of mutationsList) {
+    if (mutation.type === 'childList' || mutation.type === 'subtree') {
+      hideDiscordSearchBar();
+    }
+  }
+});
+
+// Start observing changes in the document body
+observer.observe(document.body, { childList: true, subtree: true });
