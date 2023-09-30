@@ -1,5 +1,5 @@
 chrome.runtime.onInstalled.addListener(() => {
-  // Set up rules to keep the service worker active for YouTube search results pages
+  // Set up rules to keep the service worker active for Discord channels pages
   chrome.declarativeContent.onPageChanged.removeRules(undefined, () => {
     chrome.declarativeContent.onPageChanged.addRules([
       {
