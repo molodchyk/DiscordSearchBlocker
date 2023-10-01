@@ -3,9 +3,6 @@
   "name": "Discord Search Blocker",
   "version": "1.0",
   "description": "Hides the Discord search bar",
-  "permissions": [
-    "activeTab"
-  ],
   "action": {
     "default_popup": "",
     "default_icon": {
