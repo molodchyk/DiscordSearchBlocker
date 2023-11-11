@@ -7,12 +7,15 @@ function hideElement(element) {
 
 // Function to hide the Discord search bar
 function hideDiscordSearchBar() {
-  const searchBarSelector = ".searchBar-jGtisZ";
-  const searchBarElement = document.querySelector(searchBarSelector);
+  // Select elements that match the structural pattern of the search bar
+  const searchBarElements = document.querySelectorAll('div[class*="search__"] > div > div');
 
-  if (searchBarElement) {
-    hideElement(searchBarElement); // Hide the search bar element
-  }
+  searchBarElements.forEach((element) => {
+    // Perform additional checks if necessary to ensure it's the correct element
+    if (element.querySelector('div[contenteditable="true"]')) {
+      hideElement(element); // Hide the search bar element
+    }
+  });
 }
 
 // Call the function to hide the search bar whenever DOM changes occur
