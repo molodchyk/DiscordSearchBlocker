@@ -1,1 +1,1 @@
-A simple chrome extension to discord search option.
+A simple chrome extension to hide discord search option.
