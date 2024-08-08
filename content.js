@@ -29,3 +29,4 @@ const observer = new MutationObserver((mutationsList, observer) => {
 
 // Start observing changes in the document body
 observer.observe(document.body, { childList: true, subtree: true });
+
