@@ -1,4 +1,26 @@
-// content.js
+/*
+ * Discord Search Blocker Extension
+ *
+ * file: content.js
+ * 
+ * This file is part of the Discord Search Blocker Extension.
+ *
+ * Discord Search Blocker Extension is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * Discord Search Blocker Extension is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with Discord Search Blocker Extension. If not, see <http://www.gnu.org/licenses/>.
+ *
+ * Author: Oleksandr Molodchyk
+ * Copyright (C) 2023-2024 Oleksandr Molodchyk
+ */
 
 // Function to hide the specified element
 function hideElement(element) {
@@ -7,12 +29,14 @@ function hideElement(element) {
 
 // Function to hide the Discord search bar
 function hideDiscordSearchBar() {
-  // Select elements that match the structural pattern of the search bar
-  const searchBarElements = document.querySelectorAll('div[class*="search__"] > div > div');
+  // Regular expression pattern to match search bar elements
+  const pattern = /search/;
 
+  // Select all div elements and check if their class name matches the pattern
+  const searchBarElements = document.querySelectorAll('div');
+  
   searchBarElements.forEach((element) => {
-    // Perform additional checks if necessary to ensure it's the correct element
-    if (element.querySelector('div[contenteditable="true"]')) {
+    if (pattern.test(element.className) && element.querySelector('[contenteditable="true"]')) {
       hideElement(element); // Hide the search bar element
     }
   });
@@ -29,5 +53,6 @@ const observer = new MutationObserver((mutationsList, observer) => {
 
 // Start observing changes in the document body
 observer.observe(document.body, { childList: true, subtree: true });
+
 
 
