@@ -115,6 +115,8 @@ Chrome Web Store listing copy is maintained separately in `store-listing/`, with
 
 Discord Search Blocker does not collect, store, or transmit any data. It has no analytics, no tracking, and no remote server.
 
+See [PRIVACY.md](PRIVACY.md) for the full privacy policy.
+
 ## Support
 
 If this extension saves you time and you want to support its development:
