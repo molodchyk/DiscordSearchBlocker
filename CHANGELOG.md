@@ -17,6 +17,7 @@ This project follows a simple changelog format inspired by [Keep a Changelog](ht
 - Added a reproducible asset generator for extension icons and promo images.
 - Added dedicated 32px and 48px icon assets.
 - Added modular Chrome Web Store listing copy with localized descriptions for 50 locales.
+- Added Chrome Web Store single-purpose and host-permission justification copy.
 - Added a structured project layout with `src/`, `assets/icons/`, `assets/store/`, `store-listing/`, and `dist/`.
 - Added `.webstoreignore` for extension packaging.
 - Added a reproducible Chrome Web Store package builder.
@@ -34,6 +35,7 @@ This project follows a simple changelog format inspired by [Keep a Changelog](ht
 - Coalesced Discord DOM observer work to avoid repeated full scans during rapid UI updates.
 - Replaced the verbose content script license header with SPDX identifiers.
 - Moved runtime code and image assets into purpose-specific folders.
+- Narrowed the content script match pattern from all `discord.com` pages to Discord channel pages.
 
 ### Removed
 

@@ -67,10 +67,10 @@ It only changes the visible web UI in your browser.
 The extension uses a content script on:
 
 ```json
-"*://discord.com/*"
+"*://discord.com/channels/*"
 ```
 
-This is needed so it can run inside Discord's web app and hide the search field when Discord renders it.
+This is needed so it can run inside Discord channel pages and hide the search field when Discord renders it.
 
 ## Project Structure
 
@@ -81,6 +81,7 @@ This is needed so it can run inside Discord's web app and hide the search field 
 - `assets/store/` - Chrome Web Store promotional images and screenshots
 - `STORE_LISTING.md` - Chrome Web Store listing index
 - `store-listing/` - Chrome Web Store description copy split by locale
+- `STORE_JUSTIFICATIONS.md` - Chrome Web Store single-purpose and host-permission justifications
 - `tools/generate-assets.ps1` - reproducible icon and promotional image generator
 - `tools/generate-store-screenshots.ps1` - reproducible store screenshot generator
 - `tools/package.ps1` - reproducible Chrome Web Store package builder
