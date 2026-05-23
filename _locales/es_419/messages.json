@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "Discord Search Blocker"
+  },
+  "extensionDescription": {
+    "message": "Oculta el campo de búsqueda dentro de los canales de Discord."
+  }
+}

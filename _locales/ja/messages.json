@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "Discord Search Blocker"
+  },
+  "extensionDescription": {
+    "message": "Discordチャンネル内の検索欄を非表示にします。"
+  }
+}

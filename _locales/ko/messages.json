@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "Discord Search Blocker"
+  },
+  "extensionDescription": {
+    "message": "Discord 채널 안의 검색 입력란을 숨깁니다."
+  }
+}
