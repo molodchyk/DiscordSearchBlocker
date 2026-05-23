@@ -8,8 +8,8 @@ The English source listing is:
 
 Each locale file contains:
 
-- `Short Description`
-- `Full Description`
+- `Short description: ...`
+- `Full description:`
 
 The locale set mirrors `_locales/` so extension manifest localization and store listing localization stay aligned.
 

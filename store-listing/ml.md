@@ -1,11 +1,6 @@
-# ml
+Short description: Discord ചാനലുകളിലെ തിരയൽ ഫീൽഡ് മറയ്ക്കുന്നു.
 
-## Short Description
-
-Discord ചാനലുകളിലെ തിരയൽ ഫീൽഡ് മറയ്ക്കുന്നു.
-
-## Full Description
-
+Full description:
 Discord Search Blocker Discord വെബ് ആപ്പിൽ നിന്ന് തിരയൽ ഫീൽഡ് നീക്കം ചെയ്യുന്നു.
 
 മ്യൂട്ട് ചെയ്ത, ബ്ലോക്ക് ചെയ്ത, അല്ലെങ്കിൽ ഉദ്ദേശപൂർവ്വം ഒഴിവാക്കാൻ തീരുമാനിച്ച Discord ചാനലുകൾ എളുപ്പത്തിൽ ലഭ്യമാകാതിരിക്കണമെന്ന് ആഗ്രഹിക്കുന്നപ്പോൾ ഇത് ഉപയോഗിക്കുക. നിങ്ങൾ വീണ്ടും സന്ദർശിക്കാതിരിക്കാൻ ശ്രമിക്കുന്ന ഇടങ്ങളിലെ സന്ദേശങ്ങൾ Discord തിരയൽ ഇപ്പോഴും കാണിച്ചേക്കാം; ഈ എക്സ്റ്റൻഷൻ ആ പ്രവേശനമാർഗം മറയ്ക്കുന്നു.
@@ -21,3 +16,4 @@ https://github.com/molodchyk/DiscordSearchBlocker
 
 ചേഞ്ച്‌ലോഗ്:
 https://github.com/molodchyk/DiscordSearchBlocker/blob/main/CHANGELOG.md
+

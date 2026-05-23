@@ -1,11 +1,6 @@
-# el
+Short description: Κρύβει το πεδίο αναζήτησης μέσα στα κανάλια του Discord.
 
-## Short Description
-
-Κρύβει το πεδίο αναζήτησης μέσα στα κανάλια του Discord.
-
-## Full Description
-
+Full description:
 Το Discord Search Blocker αφαιρεί το πεδίο αναζήτησης από την εφαρμογή web του Discord.
 
 Χρησιμοποιήστε το όταν θέλετε τα κανάλια Discord που έχετε σιγήσει, αποκλείσει ή αποφασίσει να αποφεύγετε να παραμένουν πιο δύσκολα προσβάσιμα. Η αναζήτηση του Discord μπορεί ακόμη να εμφανίζει μηνύματα από μέρη στα οποία δεν θέλετε να επιστρέφετε· αυτή η επέκταση κρύβει αυτό το σημείο πρόσβασης.
@@ -21,3 +16,4 @@ https://github.com/molodchyk/DiscordSearchBlocker
 
 Αρχείο αλλαγών:
 https://github.com/molodchyk/DiscordSearchBlocker/blob/main/CHANGELOG.md
+

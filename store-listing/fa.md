@@ -1,11 +1,6 @@
-# fa
+Short description: کادر جست‌وجو در کانال‌های Discord را پنهان می‌کند.
 
-## Short Description
-
-کادر جست‌وجو در کانال‌های Discord را پنهان می‌کند.
-
-## Full Description
-
+Full description:
 Discord Search Blocker کادر جست‌وجو را از برنامه وب Discord حذف می‌کند.
 
 زمانی از آن استفاده کنید که می‌خواهید دسترسی به کانال‌های بی‌صدا، مسدودشده یا کانال‌هایی که عمداً از آن‌ها دوری می‌کنید دشوارتر بماند. جست‌وجوی Discord هنوز می‌تواند پیام‌هایی از جاهایی را نشان دهد که نمی‌خواهید دوباره به آن‌ها برگردید؛ این افزونه آن مسیر ورود را پنهان می‌کند.
@@ -21,3 +16,4 @@ https://github.com/molodchyk/DiscordSearchBlocker
 
 فهرست تغییرات:
 https://github.com/molodchyk/DiscordSearchBlocker/blob/main/CHANGELOG.md
+

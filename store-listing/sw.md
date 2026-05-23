@@ -1,11 +1,6 @@
-# sw
+Short description: Huficha sehemu ya utafutaji ndani ya vituo vya Discord.
 
-## Short Description
-
-Huficha sehemu ya utafutaji ndani ya vituo vya Discord.
-
-## Full Description
-
+Full description:
 Discord Search Blocker huondoa sehemu ya utafutaji kwenye programu ya wavuti ya Discord.
 
 Itumie unapohitaji vituo vya Discord ulivyonyamazisha, kuzuia, au kuamua kuviepuka viwe vigumu zaidi kufikiwa. Utafutaji wa Discord bado unaweza kuonyesha ujumbe kutoka sehemu ambazo hutaki kurudia; kiendelezi hiki huficha njia hiyo ya kuingia.
@@ -21,3 +16,4 @@ https://github.com/molodchyk/DiscordSearchBlocker
 
 Kumbukumbu ya mabadiliko:
 https://github.com/molodchyk/DiscordSearchBlocker/blob/main/CHANGELOG.md
+

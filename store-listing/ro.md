@@ -1,11 +1,6 @@
-# ro
+Short description: Ascunde câmpul de căutare din canalele Discord.
 
-## Short Description
-
-Ascunde câmpul de căutare din canalele Discord.
-
-## Full Description
-
+Full description:
 Discord Search Blocker elimină câmpul de căutare din aplicația web Discord.
 
 Folosiți-l când doriți ca canalele Discord dezactivate, blocate sau evitate intenționat să rămână mai greu accesibile. Căutarea Discord poate afișa în continuare mesaje din locuri pe care încercați să nu le revizitați; această extensie ascunde acel punct de acces.
@@ -21,3 +16,4 @@ https://github.com/molodchyk/DiscordSearchBlocker
 
 Jurnal de modificări:
 https://github.com/molodchyk/DiscordSearchBlocker/blob/main/CHANGELOG.md
+

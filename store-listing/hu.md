@@ -1,11 +1,6 @@
-# hu
+Short description: Elrejti a keresőmezőt a Discord-csatornákban.
 
-## Short Description
-
-Elrejti a keresőmezőt a Discord-csatornákban.
-
-## Full Description
-
+Full description:
 A Discord Search Blocker eltávolítja a keresőmezőt a Discord webalkalmazásából.
 
 Akkor használd, ha szeretnéd, hogy a némított, blokkolt vagy tudatosan kerülni próbált Discord-csatornák ne legyenek könnyen elérhetők. A Discord keresője továbbra is megjeleníthet üzeneteket olyan helyekről, ahová nem szeretnél visszatérni; ez a bővítmény elrejti ezt a belépési pontot.
@@ -21,3 +16,4 @@ https://github.com/molodchyk/DiscordSearchBlocker
 
 Változásnapló:
 https://github.com/molodchyk/DiscordSearchBlocker/blob/main/CHANGELOG.md
+

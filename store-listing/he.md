@@ -1,11 +1,6 @@
-# he
+Short description: מסתיר את שדה החיפוש בערוצי Discord.
 
-## Short Description
-
-מסתיר את שדה החיפוש בערוצי Discord.
-
-## Full Description
-
+Full description:
 Discord Search Blocker מסיר את שדה החיפוש מאפליקציית הווב של Discord.
 
 השתמש בו כאשר אתה רוצה שערוצי Discord שהושתקו, נחסמו או הוחלט להימנע מהם יהיו קשים יותר לגישה. החיפוש של Discord עדיין יכול להציג הודעות ממקומות שאתה מנסה לא לחזור אליהם; התוסף הזה מסתיר את נקודת הכניסה הזו.
@@ -21,3 +16,4 @@ https://github.com/molodchyk/DiscordSearchBlocker
 
 יומן שינויים:
 https://github.com/molodchyk/DiscordSearchBlocker/blob/main/CHANGELOG.md
+

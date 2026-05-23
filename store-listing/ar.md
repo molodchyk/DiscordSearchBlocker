@@ -1,11 +1,6 @@
-# ar
+Short description: يخفي حقل البحث داخل قنوات Discord.
 
-## Short Description
-
-يخفي حقل البحث داخل قنوات Discord.
-
-## Full Description
-
+Full description:
 يزيل Discord Search Blocker حقل البحث من تطبيق Discord على الويب.
 
 استخدمه عندما تريد أن تبقى القنوات التي كتمتها أو حظرتها أو قررت تجنبها أصعب في الوصول. يمكن لبحث Discord أن يعرض رسائل من أماكن تحاول عدم الرجوع إليها؛ لذلك يخفي هذا الامتداد نقطة الدخول هذه.
@@ -21,3 +16,4 @@ https://github.com/molodchyk/DiscordSearchBlocker
 
 سجل التغييرات:
 https://github.com/molodchyk/DiscordSearchBlocker/blob/main/CHANGELOG.md
+

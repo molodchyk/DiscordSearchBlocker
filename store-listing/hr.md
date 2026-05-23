@@ -1,11 +1,6 @@
-# hr
+Short description: Skriva polje za pretraživanje u Discord kanalima.
 
-## Short Description
-
-Skriva polje za pretraživanje u Discord kanalima.
-
-## Full Description
-
+Full description:
 Discord Search Blocker uklanja polje za pretraživanje iz Discordove web aplikacije.
 
 Koristite ga kada želite da utišani, blokirani ili namjerno izbjegavani Discord kanali ostanu teže dostupni. Discord pretraživanje i dalje može prikazati poruke s mjesta koja pokušavate ne ponovno posjećivati; ovo proširenje skriva taj ulaz.
@@ -21,3 +16,4 @@ https://github.com/molodchyk/DiscordSearchBlocker
 
 Dnevnik promjena:
 https://github.com/molodchyk/DiscordSearchBlocker/blob/main/CHANGELOG.md
+

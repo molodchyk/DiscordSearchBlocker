@@ -1,11 +1,6 @@
-# lv
+Short description: Paslēpj meklēšanas lauku Discord kanālos.
 
-## Short Description
-
-Paslēpj meklēšanas lauku Discord kanālos.
-
-## Full Description
-
+Full description:
 Discord Search Blocker noņem meklēšanas lauku no Discord tīmekļa lietotnes.
 
 Izmantojiet to, ja vēlaties, lai izslēgtie, bloķētie vai apzināti izvairītie Discord kanāli paliktu grūtāk pieejami. Discord meklēšana joprojām var parādīt ziņojumus no vietām, kuras cenšaties neatvērt atkārtoti; šis paplašinājums paslēpj šo ieejas punktu.
@@ -21,3 +16,4 @@ https://github.com/molodchyk/DiscordSearchBlocker
 
 Izmaiņu žurnāls:
 https://github.com/molodchyk/DiscordSearchBlocker/blob/main/CHANGELOG.md
+

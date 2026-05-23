@@ -1,11 +1,6 @@
-# te
+Short description: Discord ఛానెల్‌లలోని శోధన ఫీల్డ్‌ను దాచుతుంది.
 
-## Short Description
-
-Discord ఛానెల్‌లలోని శోధన ఫీల్డ్‌ను దాచుతుంది.
-
-## Full Description
-
+Full description:
 Discord Search Blocker Discord వెబ్ యాప్ నుండి శోధన ఫీల్డ్‌ను తొలగిస్తుంది.
 
 మీరు మ్యూట్ చేసిన, బ్లాక్ చేసిన లేదా ఉద్దేశపూర్వకంగా దూరంగా ఉండాలనుకున్న Discord ఛానెల్‌లు సులభంగా అందుబాటులో ఉండకూడదనుకుంటే దీన్ని ఉపయోగించండి. Discord శోధన మీరు తిరిగి చూడకూడదనుకునే చోట్ల సందేశాలను ఇంకా చూపించగలదు; ఈ ఎక్స్‌టెన్షన్ ఆ ప్రవేశ బిందువును దాచుతుంది.
@@ -21,3 +16,4 @@ https://github.com/molodchyk/DiscordSearchBlocker
 
 చేంజ్‌లాగ్:
 https://github.com/molodchyk/DiscordSearchBlocker/blob/main/CHANGELOG.md
+

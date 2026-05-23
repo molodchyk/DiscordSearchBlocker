@@ -1,11 +1,6 @@
-# no
+Short description: Skjuler søkefeltet i Discord-kanaler.
 
-## Short Description
-
-Skjuler søkefeltet i Discord-kanaler.
-
-## Full Description
-
+Full description:
 Discord Search Blocker fjerner søkefeltet fra Discords nettapp.
 
 Bruk den når du vil at dempede, blokkerte eller bevisst unngåtte Discord-kanaler skal være vanskeligere å få tilgang til. Discord-søk kan fortsatt vise meldinger fra steder du prøver å ikke gå tilbake til; denne utvidelsen skjuler den inngangen.
@@ -21,3 +16,4 @@ https://github.com/molodchyk/DiscordSearchBlocker
 
 Endringslogg:
 https://github.com/molodchyk/DiscordSearchBlocker/blob/main/CHANGELOG.md
+

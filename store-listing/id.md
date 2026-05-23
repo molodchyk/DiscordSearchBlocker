@@ -1,11 +1,6 @@
-# id
+Short description: Menyembunyikan kolom pencarian di dalam kanal Discord.
 
-## Short Description
-
-Menyembunyikan kolom pencarian di dalam kanal Discord.
-
-## Full Description
-
+Full description:
 Discord Search Blocker menghapus kolom pencarian dari aplikasi web Discord.
 
 Gunakan saat Anda ingin kanal Discord yang dibisukan, diblokir, atau sengaja dihindari tetap lebih sulit diakses. Pencarian Discord masih dapat menampilkan pesan dari tempat yang sedang Anda coba hindari; ekstensi ini menyembunyikan titik masuk tersebut.
@@ -21,3 +16,4 @@ https://github.com/molodchyk/DiscordSearchBlocker
 
 Catatan perubahan:
 https://github.com/molodchyk/DiscordSearchBlocker/blob/main/CHANGELOG.md
+

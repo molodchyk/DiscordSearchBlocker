@@ -1,11 +1,6 @@
-# kn
+Short description: Discord ಚಾನಲ್‌ಗಳಲ್ಲಿನ ಹುಡುಕಾಟ ಕ್ಷೇತ್ರವನ್ನು ಮರೆಮಾಡುತ್ತದೆ.
 
-## Short Description
-
-Discord ಚಾನಲ್‌ಗಳಲ್ಲಿನ ಹುಡುಕಾಟ ಕ್ಷೇತ್ರವನ್ನು ಮರೆಮಾಡುತ್ತದೆ.
-
-## Full Description
-
+Full description:
 Discord Search Blocker Discord ವೆಬ್ ಆಪ್‌ನಿಂದ ಹುಡುಕಾಟ ಕ್ಷೇತ್ರವನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ.
 
 ನೀವು ಮ್ಯೂಟ್ ಮಾಡಿದ, ಬ್ಲಾಕ್ ಮಾಡಿದ ಅಥವಾ ಉದ್ದೇಶಪೂರ್ವಕವಾಗಿ ತಪ್ಪಿಸಲು ಬಯಸುವ Discord ಚಾನಲ್‌ಗಳನ್ನು ಸುಲಭವಾಗಿ ಪ್ರವೇಶಿಸಲಾಗದಂತೆ ಇಡಲು ಇದನ್ನು ಬಳಸಿ. Discord ಹುಡುಕಾಟವು ನೀವು ಮರಳಿ ನೋಡಬಯಸದ ಸ್ಥಳಗಳ ಸಂದೇಶಗಳನ್ನು ಇನ್ನೂ ತೋರಿಸಬಹುದು; ಈ ವಿಸ್ತರಣೆ ಆ ಪ್ರವೇಶ ಬಿಂದುವನ್ನು ಮರೆಮಾಡುತ್ತದೆ.
@@ -21,3 +16,4 @@ https://github.com/molodchyk/DiscordSearchBlocker
 
 ಬದಲಾವಣೆಗಳ ಪಟ್ಟಿ:
 https://github.com/molodchyk/DiscordSearchBlocker/blob/main/CHANGELOG.md
+

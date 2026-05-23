@@ -1,11 +1,6 @@
-# zh_CN
+Short description: 隐藏 Discord 频道内的搜索框。
 
-## Short Description
-
-隐藏 Discord 频道内的搜索框。
-
-## Full Description
-
+Full description:
 Discord Search Blocker 会从 Discord 网页版中移除搜索框。
 
 当你希望已静音、已屏蔽或有意避开的 Discord 频道更难被再次打开时，可以使用它。Discord 搜索仍然可能显示来自这些位置的消息；此扩展会隐藏这个入口。
@@ -21,3 +16,4 @@ https://github.com/molodchyk/DiscordSearchBlocker
 
 更新日志：
 https://github.com/molodchyk/DiscordSearchBlocker/blob/main/CHANGELOG.md
+

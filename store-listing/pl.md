@@ -1,11 +1,6 @@
-# pl
+Short description: Ukrywa pole wyszukiwania w kanałach Discorda.
 
-## Short Description
-
-Ukrywa pole wyszukiwania w kanałach Discorda.
-
-## Full Description
-
+Full description:
 Discord Search Blocker usuwa pole wyszukiwania z aplikacji webowej Discorda.
 
 Użyj go, gdy chcesz, aby wyciszone, zablokowane lub celowo omijane kanały Discorda pozostały trudniejsze do otwarcia. Wyszukiwarka Discorda nadal może pokazywać wiadomości z miejsc, do których próbujesz nie wracać; to rozszerzenie ukrywa ten punkt dostępu.
@@ -21,3 +16,4 @@ https://github.com/molodchyk/DiscordSearchBlocker
 
 Lista zmian:
 https://github.com/molodchyk/DiscordSearchBlocker/blob/main/CHANGELOG.md
+

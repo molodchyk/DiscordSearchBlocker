@@ -1,11 +1,6 @@
-# uk
+Short description: Приховує поле пошуку в каналах Discord.
 
-## Short Description
-
-Приховує поле пошуку в каналах Discord.
-
-## Full Description
-
+Full description:
 Discord Search Blocker прибирає поле пошуку з вебзастосунку Discord.
 
 Використовуйте його, коли хочете, щоб вимкнені, заблоковані або свідомо уникані канали Discord залишалися менш доступними. Пошук Discord усе ще може показувати повідомлення з місць, куди ви не хочете повертатися; це розширення приховує цю точку входу.
@@ -21,3 +16,4 @@ https://github.com/molodchyk/DiscordSearchBlocker
 
 Журнал змін:
 https://github.com/molodchyk/DiscordSearchBlocker/blob/main/CHANGELOG.md
+
