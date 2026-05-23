@@ -1,6 +1,5 @@
-Short description: Skryje vyhledávací pole v kanálech Discordu.
+Skryje vyhledávací pole v kanálech Discordu.
 
-Full description:
 Discord Search Blocker odstraňuje vyhledávací pole z webové aplikace Discord.
 
 Použijte ho, když chcete, aby ztlumené, blokované nebo záměrně vyhýbané kanály Discordu zůstaly hůře dostupné. Vyhledávání v Discordu může stále zobrazit zprávy z míst, kam se nechcete vracet; toto rozšíření tento vstupní bod skryje.

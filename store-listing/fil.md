@@ -1,6 +1,5 @@
-Short description: Itinatago ang search field sa loob ng mga channel ng Discord.
+Itinatago ang search field sa loob ng mga channel ng Discord.
 
-Full description:
 Inaalis ng Discord Search Blocker ang search field mula sa web app ng Discord.
 
 Gamitin ito kapag gusto mong mas mahirap balikan ang mga Discord channel na naka-mute, naka-block, o sinasadya mong iwasan. Maaari pa ring magpakita ang Discord search ng mga mensahe mula sa mga lugar na ayaw mong bisitahing muli; itinatago ng extension na ito ang entry point na iyon.

@@ -1,6 +1,5 @@
-Short description: Paslepia paieškos lauką Discord kanaluose.
+Paslepia paieškos lauką Discord kanaluose.
 
-Full description:
 Discord Search Blocker pašalina paieškos lauką iš Discord žiniatinklio programos.
 
 Naudokite jį, kai norite, kad nutildyti, užblokuoti ar sąmoningai vengiami Discord kanalai liktų sunkiau pasiekiami. Discord paieška vis tiek gali parodyti žinutes iš vietų, į kurias nenorite grįžti; šis plėtinys paslepia tą įėjimo tašką.

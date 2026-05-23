@@ -1,6 +1,5 @@
-Short description: Nasconde il campo di ricerca nei canali Discord.
+Nasconde il campo di ricerca nei canali Discord.
 
-Full description:
 Discord Search Blocker rimuove il campo di ricerca dall'app web di Discord.
 
 Usalo quando vuoi che i canali Discord silenziati, bloccati o evitati intenzionalmente restino più difficili da raggiungere. La ricerca di Discord può ancora mostrare messaggi provenienti da luoghi che stai cercando di non riaprire; questa estensione nasconde quel punto di accesso.

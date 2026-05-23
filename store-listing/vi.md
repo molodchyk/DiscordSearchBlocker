@@ -1,6 +1,5 @@
-Short description: Ẩn ô tìm kiếm trong các kênh Discord.
+Ẩn ô tìm kiếm trong các kênh Discord.
 
-Full description:
 Discord Search Blocker gỡ ô tìm kiếm khỏi ứng dụng web Discord.
 
 Hãy dùng khi bạn muốn các kênh Discord đã tắt tiếng, chặn hoặc cố ý tránh né trở nên khó truy cập hơn. Tìm kiếm của Discord vẫn có thể hiển thị tin nhắn từ những nơi bạn đang cố không quay lại; tiện ích này ẩn điểm truy cập đó.

@@ -1,6 +1,5 @@
-Short description: Hide Discord's in-channel search field.
+Hide Discord's in-channel search field.
 
-Full description:
 Discord Search Blocker removes the search field from Discord's web app.
 
 Use it when you want muted, blocked, or intentionally avoided Discord channels to stay harder to access. Discord search can still surface messages from places you are trying not to revisit; this extension hides that search entry point.

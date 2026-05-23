@@ -1,6 +1,5 @@
-Short description: Skrije iskalno polje v kanalih Discord.
+Skrije iskalno polje v kanalih Discord.
 
-Full description:
 Discord Search Blocker odstrani iskalno polje iz spletne aplikacije Discord.
 
 Uporabite ga, ko želite, da utišani, blokirani ali namenoma izogibani kanali Discord ostanejo težje dostopni. Iskanje v Discordu lahko še vedno prikaže sporočila iz mest, ki jih ne želite znova obiskati; ta razširitev skrije to vstopno točko.

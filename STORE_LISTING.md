@@ -6,10 +6,7 @@ The English source listing is:
 
 - `store-listing/en.md`
 
-Each locale file contains:
-
-- `Short description: ...`
-- `Full description:`
+Each locale file contains the short description first, followed by a blank line and the full description body.
 
 The locale set mirrors `_locales/` so extension manifest localization and store listing localization stay aligned.
 

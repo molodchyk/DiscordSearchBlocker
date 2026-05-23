@@ -1,6 +1,5 @@
-Short description: Blendet das Suchfeld in Discord-Kanälen aus.
+Blendet das Suchfeld in Discord-Kanälen aus.
 
-Full description:
 Discord Search Blocker entfernt das Suchfeld aus der Discord-Web-App.
 
 Nutze die Erweiterung, wenn stummgeschaltete, blockierte oder bewusst gemiedene Discord-Kanäle schwerer erreichbar bleiben sollen. Die Discord-Suche kann weiterhin Nachrichten aus Bereichen anzeigen, die du nicht wieder aufrufen möchtest; diese Erweiterung blendet diesen Einstiegspunkt aus.

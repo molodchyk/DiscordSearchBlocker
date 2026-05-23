@@ -1,6 +1,5 @@
-Short description: Piilottaa Discord-kanavien hakukentän.
+Piilottaa Discord-kanavien hakukentän.
 
-Full description:
 Discord Search Blocker poistaa hakukentän Discordin verkkosovelluksesta.
 
 Käytä sitä, kun haluat, että mykistetyt, estetyt tai tarkoituksella vältetyt Discord-kanavat pysyvät vaikeammin saavutettavina. Discordin haku voi edelleen näyttää viestejä paikoista, joihin et halua palata; tämä laajennus piilottaa kyseisen sisäänkäynnin.

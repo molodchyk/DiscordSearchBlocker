@@ -1,6 +1,5 @@
-Short description: Peidab Discordi kanalite otsinguvälja.
+Peidab Discordi kanalite otsinguvälja.
 
-Full description:
 Discord Search Blocker eemaldab otsinguvälja Discordi veebirakendusest.
 
 Kasuta seda siis, kui soovid, et vaigistatud, blokeeritud või teadlikult välditud Discordi kanalid oleksid raskemini avatavad. Discordi otsing võib endiselt näidata sõnumeid kohtadest, kuhu sa ei soovi naasta; see laiendus peidab selle sissepääsu.

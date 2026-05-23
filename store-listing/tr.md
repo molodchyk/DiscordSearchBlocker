@@ -1,6 +1,5 @@
-Short description: Discord kanallarındaki arama alanını gizler.
+Discord kanallarındaki arama alanını gizler.
 
-Full description:
 Discord Search Blocker, Discord web uygulamasındaki arama alanını kaldırır.
 
 Sessize aldığınız, engellediğiniz veya bilinçli olarak kaçındığınız Discord kanallarına erişimin daha zor kalmasını istediğinizde kullanın. Discord araması, tekrar ziyaret etmek istemediğiniz yerlerden mesajları hâlâ gösterebilir; bu uzantı o giriş noktasını gizler.
