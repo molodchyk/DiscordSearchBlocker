@@ -1,5 +1,3 @@
-Döljer sökfältet i Discord-kanaler.
-
 Discord Search Blocker tar bort sökfältet från Discords webbapp.
 
 Använd den när du vill att tystade, blockerade eller medvetet undvikna Discord-kanaler ska vara svårare att komma åt. Discords sökning kan fortfarande visa meddelanden från platser du försöker att inte återvända till; den här tillägget döljer den ingången.

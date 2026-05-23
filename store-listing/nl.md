@@ -1,5 +1,3 @@
-Verbergt het zoekveld in Discord-kanalen.
-
 Discord Search Blocker verwijdert het zoekveld uit de web-app van Discord.
 
 Gebruik het wanneer je wilt dat gedempte, geblokkeerde of bewust vermeden Discord-kanalen moeilijker bereikbaar blijven. Discord-zoekopdrachten kunnen nog steeds berichten tonen uit plekken die je probeert niet opnieuw te bezoeken; deze extensie verbergt die ingang.

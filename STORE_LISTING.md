@@ -6,7 +6,7 @@ The English source listing is:
 
 - `store-listing/en.md`
 
-Each locale file contains the short description first, followed by a blank line and the full description body.
+Each locale file contains only the full description body. The short descriptions are managed separately in Chrome Web Store's summary field.
 
 The locale set mirrors `_locales/` so extension manifest localization and store listing localization stay aligned.
 

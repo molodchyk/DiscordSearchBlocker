@@ -1,5 +1,3 @@
-Elrejti a keresőmezőt a Discord-csatornákban.
-
 A Discord Search Blocker eltávolítja a keresőmezőt a Discord webalkalmazásából.
 
 Akkor használd, ha szeretnéd, hogy a némított, blokkolt vagy tudatosan kerülni próbált Discord-csatornák ne legyenek könnyen elérhetők. A Discord keresője továbbra is megjeleníthet üzeneteket olyan helyekről, ahová nem szeretnél visszatérni; ez a bővítmény elrejti ezt a belépési pontot.

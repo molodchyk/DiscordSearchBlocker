@@ -1,5 +1,3 @@
-Menyembunyikan medan carian dalam saluran Discord.
-
 Discord Search Blocker membuang medan carian daripada aplikasi web Discord.
 
 Gunakannya apabila anda mahu saluran Discord yang dibisukan, disekat, atau sengaja dielakkan kekal lebih sukar untuk diakses. Carian Discord masih boleh memaparkan mesej dari tempat yang anda cuba tidak lawati semula; sambungan ini menyembunyikan titik masuk itu.

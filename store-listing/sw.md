@@ -1,5 +1,3 @@
-Huficha sehemu ya utafutaji ndani ya vituo vya Discord.
-
 Discord Search Blocker huondoa sehemu ya utafutaji kwenye programu ya wavuti ya Discord.
 
 Itumie unapohitaji vituo vya Discord ulivyonyamazisha, kuzuia, au kuamua kuviepuka viwe vigumu zaidi kufikiwa. Utafutaji wa Discord bado unaweza kuonyesha ujumbe kutoka sehemu ambazo hutaki kurudia; kiendelezi hiki huficha njia hiyo ya kuingia.
